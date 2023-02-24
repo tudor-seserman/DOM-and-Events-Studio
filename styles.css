@@ -7,8 +7,16 @@
 }
 
 #flightStatus {
-    color: green;
+    color: green;  
 }
+
+/* #rocket{
+    position: absolute;
+    left: 200px;
+    right: 0px;
+    top: 240px;
+    bottom: 0px;
+} */
 
 #flightDisplay {
     text-align: center; 
